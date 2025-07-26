@@ -1,4 +1,4 @@
-AvA-Spy-HG1T-WH5G-ASB8-NM02 | 2025-12-31 | Current User | 8C:89:8C:DF:6B:E3 | active
+AvA-Spy-HG1T-WH5G-ASB8-NM02 | 2025-12-31 | AvA Boy ADMIN CLUP | 8C:89:8C:DF:6B:E3 | active
 DEMO1234 | 2025-12-31 | Demo User | 00:15:5D:FF:FF:FF | active
 TEST5678 | 2025-06-30 | Test Account | 11:22:33:44:55:66 | active
 CUSTOMER1 | 2025-03-15 | John Smith | 12:34:56:78:90:AB | active
