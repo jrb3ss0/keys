@@ -1,5 +1,5 @@
 AvA-Spy-HG1T-WH5G-ASB8-lM02 | 2025-12-31 | AvA Boy Just Test | 8r:89:8C:DF:6B:E3 | inactive
-AvA-Spy-HG1T-WH5G-ASB8-NM02 | 2025-12-31 | AvA Boy Just Test | 8C:89:8C:DF:6B:E3 | inactive
+AvA-Spy-HG1T-WH5G-ASB8-NM02 | 2025-12-31 | AvA Boy Just Test | 8C:89:8C:DF:6B:E3 | active
 DEMO1234 | 2025-12-31 | Demo User | 72:24:E4:5F:20:97 | active
 TEST5678 | 2025-06-30 | Test Account | 11:22:33:44:55:66 | active
 CUSTOMER1 | 2025-03-15 | John Smith | 12:34:56:78:90:AB | active
